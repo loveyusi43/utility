@@ -1,0 +1,11 @@
+AccessModifierOffset: -4,
+AlignEscapedNewlines: Left,
+AllowShortFunctionsOnASingleLine: Inline,
+ColumnLimit: 110,
+IndentCaseLabels: true,
+IndentWidth: 4,
+KeepEmptyLinesAtTheStartOfBlocks: false,
+PointerAlignment: Left,
+SpaceAfterCStyleCast: true,
+SpacesBeforeTrailingComments: 2,
+TabWidth: 4
